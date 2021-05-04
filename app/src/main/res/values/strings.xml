@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationRetrofit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment">Hello fragment</string>
+    <string name="hello_item_fragment">Hello item fragment</string>
+    <string name="chit_no">Chit number         : </string>
+    <string name="branch_name">Branch Name         : </string>
+    <string name="paid_amount">Paid Amount         : </string>
+    <string name="due_amount">Due Amount          : </string>
+    <string name="trans_id">Transaction ID      : </string>
+    <string name="completed_date_time"> Date and Time : </string>
+
+</resources>
